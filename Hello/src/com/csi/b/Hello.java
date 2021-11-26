@@ -1,0 +1,8 @@
+package com.csi.b;
+
+public class Hello {
+
+	public static void main(String[] args) {
+		System.out.println("b");
+	}
+}
